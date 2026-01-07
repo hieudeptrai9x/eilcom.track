@@ -1,0 +1,6 @@
+
+{
+  "name": "LuxeTrack OMS",
+  "description": "A high-end luxury goods Order Management System featuring detailed financial tracking, dashboard analytics, and AI-powered insights.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
